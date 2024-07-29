@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier; DO NOT MODIFY THIS FILE DIRECTLY!
+#
+# This file was generated using copier (https://copier.readthedocs.io/) with the
+# template copier-ProjectScaffolding (https://github.com/gt-sse-center/copier-ProjectScaffolding).
+# Additional information (including instructions on how to use this template with copier) is
+# available at https://github.com/gt-sse-center/copier-ProjectScaffolding.
+#
+
+_commit: v0.2.4
+_src_path: https://github.com/gt-sse-center/copier-ProjectScaffolding
+author_email: sse-center@gatech.edu
+author_name: Scientific Software Engineering Center at Georgia Tech
+documentation_license: MIT
+generate_docs: true
+github_host: https://github.com
+github_repo_name: copier-ProjectScaffolding-Sample-PythonExecutionEnvironment
+github_username: gt-sse-center
+hosting_platform: GitHub
+project_description: Sample of the copier-ProjectScaffolding "Python Execution Environment"
+    project type.
+project_name: copier-ProjectScaffolding-Sample-PythonExecutionEnvironment
+project_type: PythonExecutionEnvironment
+repository_tool: git
